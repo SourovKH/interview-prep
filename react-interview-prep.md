@@ -6,27 +6,27 @@
 
 ## Table of Contents
 
-1. [[#1 Virtual DOM & Reconciliation]]
-2. [[#2 JSX]]
-3. [[#3 Components — Class vs Function]]
-4. [[#4 State and Props]]
-5. [[#5 React Hooks (Core)]]
-6. [[#6 Custom Hooks]]
-7. [[#7 Component Lifecycle]]
-8. [[#8 Context API]]
-9. [[#9 State Management — Redux]]
-10. [[#10 Performance Optimization]]
-11. [[#11 React Fiber Architecture]]
-12. [[#12 Concurrent Features]]
-13. [[#13 Error Boundaries]]
-14. [[#14 Controlled vs Uncontrolled Components]]
-15. [[#15 Higher-Order Components, Render Props & Hooks]]
-16. [[#16 Portals]]
-17. [[#17 Server-Side Rendering (SSR) & Next.js]]
-18. [[#18 React Router]]
-19. [[#19 Testing]]
-20. [[#20 TypeScript with React]]
-21. [[#21 Common Coding Patterns]]
+1. [Virtual DOM & Reconciliation](#1-virtual-dom--reconciliation)
+2. [JSX](#2-jsx)
+3. [Components — Class vs Function](#3-components--class-vs-function)
+4. [State and Props](#4-state-and-props)
+5. [React Hooks (Core)](#5-react-hooks-core)
+6. [Custom Hooks](#6-custom-hooks)
+7. [Component Lifecycle](#7-component-lifecycle)
+8. [Context API](#8-context-api)
+9. [State Management — Redux](#9-state-management--redux)
+10. [Performance Optimization](#10-performance-optimization)
+11. [React Fiber Architecture](#11-react-fiber-architecture)
+12. [Concurrent Features](#12-concurrent-features)
+13. [Error Boundaries](#13-error-boundaries)
+14. [Controlled vs Uncontrolled Components](#14-controlled-vs-uncontrolled-components)
+15. [Higher-Order Components, Render Props & Hooks](#15-higher-order-components-render-props--hooks)
+16. [Portals](#16-portals)
+17. [Server-Side Rendering (SSR) & Next.js](#17-server-side-rendering-ssr--nextjs)
+18. [React Router](#18-react-router)
+19. [Testing](#19-testing)
+20. [TypeScript with React](#20-typescript-with-react)
+21. [Common Coding Patterns](#21-common-coding-patterns)
 
 ---
 

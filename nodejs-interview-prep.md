@@ -6,24 +6,24 @@
 
 ## Table of Contents
 
-1. [[#1 Event Loop]]
-2. [[#2 Modules — CommonJS vs ESM]]
-3. [[#3 Streams]]
-4. [[#4 Async Patterns]]
-5. [[#5 Cluster & Worker Threads]]
-6. [[#6 Buffers]]
-7. [[#7 Express & Middleware]]
-8. [[#8 REST API Design]]
-9. [[#9 Authentication — JWT, OAuth, Sessions]]
-10. [[#10 Error Handling]]
-11. [[#11 Security]]
-12. [[#12 Database — MongoDB & SQL]]
-13. [[#13 Caching — Redis & Strategies]]
-14. [[#14 Memory Leaks & Profiling]]
-15. [[#15 Microservices]]
-16. [[#16 Logging & Monitoring]]
-17. [[#17 Docker & Deployment]]
-18. [[#18 Design Patterns in Node.js]]
+1. [Event Loop](#1-event-loop)
+2. [Modules — CommonJS vs ESM](#2-modules--commonjs-vs-esm)
+3. [Streams](#3-streams)
+4. [Async Patterns](#4-async-patterns)
+5. [Cluster & Worker Threads](#5-cluster--worker-threads)
+6. [Buffers](#6-buffers)
+7. [Express & Middleware](#7-express--middleware)
+8. [REST API Design](#8-rest-api-design)
+9. [Authentication — JWT, OAuth, Sessions](#9-authentication--jwt-oauth-sessions)
+10. [Error Handling](#10-error-handling)
+11. [Security](#11-security)
+12. [Database — MongoDB & SQL](#12-database--mongodb--sql)
+13. [Caching — Redis & Strategies](#13-caching--redis--strategies)
+14. [Memory Leaks & Profiling](#14-memory-leaks--profiling)
+15. [Microservices](#15-microservices)
+16. [Logging & Monitoring](#16-logging--monitoring)
+17. [Docker & Deployment](#17-docker--deployment)
+18. [Design Patterns in Node.js](#18-design-patterns-in-nodejs)
 
 ---
 
